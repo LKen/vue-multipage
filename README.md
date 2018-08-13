@@ -9,6 +9,7 @@
 ## 前言
 
 这是用 vue-cli 2.9.3 版本`vue init webpack`命令生成的的应用，在此基础上加了些东西变成了多页面的
+
 如果想看vue-cli 3.x及以上的版本请移步[v3分支](https://github.com/JayZangwill/vue-multipage/tree/v3)
 
 ## tip
